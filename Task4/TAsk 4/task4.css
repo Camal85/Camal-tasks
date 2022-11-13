@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: aqua;
+}
+
+.aqua{
+    color: aqua;
+    background-color: aquamarine;
+}

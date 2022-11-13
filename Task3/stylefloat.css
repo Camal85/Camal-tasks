@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+div {
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+
+.elem1 {
+    float: left;
+    background-color: aqua;
+
+}
+
+.elem2 {
+    float: right;
+    background-color: blue;
+}
+
+.elem3 {
+    background-color: brown;
+}
+
+.elem4 {
+    background-color: blueviolet;
+}
