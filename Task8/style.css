@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1068px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 25%;
+    padding: 5px;
+    box-sizing: border-box;
+
+}
+
+.car_box {
+    width: 150%;
+    border: 2px;
+}
+
+img {
+    width: 100%;
+    border: 1px solid;
+}
+
+/* comman+shift+p
+wrap */
+
+100vh-all display
+comnd+alt+asagi
