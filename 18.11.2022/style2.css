@@ -1,0 +1,15 @@
+div {
+    height: 50px;
+    background-color: red;
+}
+
+div h1 {
+    background-color: black;
+    color: aqua;
+}
+
+
+div:hover h1 {
+    background-color: blueviolet;
+    color: rgb(19, 7, 30);
+}

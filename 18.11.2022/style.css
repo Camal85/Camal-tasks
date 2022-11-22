@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+
+div {
+    display: flex;
+}
+
+h1,
+p {
+    font-family: 'Italianno';
+}
